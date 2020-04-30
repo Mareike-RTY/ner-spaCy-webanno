@@ -1,5 +1,5 @@
 # ner_lyrics
-<h4><FONT COLOR="000099">Scripts for detecting named entities in German lyrics by updating a German NER model by spaCy.</FONT></h4>
+<h4>Scripts for detecting named entities in German lyrics by updating a German NER model by spaCy.</h4>
 
 <ul>
   <li><i>Script 1: Change OTH labels to MISC labels</i></li>
