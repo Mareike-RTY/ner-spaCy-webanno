@@ -11,6 +11,7 @@ __Script 2: Prepare date for spaCy__
 __Script 3: Test updated spaCy model__
 <br>After updating the spaCy model via the command line interface, the model is tested on all songtext files at once, whereas the named entities included are counted and visualized within the text.</br>
 <br></br>
+<hr></hr>
 __Methods:__
 <br>Programming language: Python 3</br>
 Annotation tool: WebAnno (v 3.6.4), https://webanno.github.io/webanno/
