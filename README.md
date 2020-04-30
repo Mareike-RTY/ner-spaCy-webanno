@@ -1,5 +1,5 @@
 # ner_lyrics
-<h3>Scripts for detecting named entities in German lyrics by updating a German NER model by spaCy.</h3>
+<h4>Scripts for detecting named entities in German lyrics by updating a German NER model by spaCy.</h4>
 
 __Change OTH labels to MISC labels:__ 
 <br>Since the WebAnno annotation label for the _miscellaneous_ named entity category (_OTH_) does not match with the respective spaCy annotation label (_MISC_), the OTH strings in the annotated data need to be replaced by MISC strings in a first step.</br>
