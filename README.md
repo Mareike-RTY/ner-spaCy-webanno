@@ -17,7 +17,8 @@
   whereas the named entities included are counted and visualized within the text.</ul>
 <hr></hr>
 <b>Methods:</b>
-<br>Programming language: Python 3</br>
-Annotation tool: WebAnno (v 3.6.4), https://webanno.github.io/webanno/
-<br>NLP software library: spaCy (v 2.2.3), https://spacy.io/models/de#de_core_news_sm</br>
-Linguistic resource: Songkorpus, www.songkorpus.de
+<ul>
+  <li>Programming language: Python 3</li>
+  <li>Annotation tool: WebAnno (v 3.6.4), https://webanno.github.io/webanno/</li>
+  <li>NLP software library: spaCy (v 2.2.3), https://spacy.io/models/de#de_core_news_sm</li>
+  <li>Linguistic resource: Songkorpus, www.songkorpus.de</li></ul>
