@@ -16,7 +16,7 @@
   After updating the spaCy model via the command line interface, the model is tested on all songtext files at once,
   whereas the named entities included are counted and visualized within the text.</ul>
 <hr></hr>
-<b>Methods:</b>
+<b>Resources used:</b>
 <ul>
   <li>Programming language: Python 3</li>
   <li>Annotation tool: WebAnno (v 3.6.4), https://webanno.github.io/webanno/</li>
