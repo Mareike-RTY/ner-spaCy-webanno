@@ -13,6 +13,6 @@ __Test updated spaCy model:__
 
 __Used:__
 <br>Programming language: Python 3</br>
-Annotation tool: WebAnno (v 3.6.4)
-<br>NLP software library: spaCy (v 2.2.3)</br>
-Linguistic resource: www.songkorpus.de
+Annotation tool: WebAnno (v 3.6.4), https://webanno.github.io/webanno/
+<br>NLP software library: spaCy (v 2.2.3), https://spacy.io/models/de#de_core_news_sm</br>
+Linguistic resource: Songkorpus, www.songkorpus.de
