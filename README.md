@@ -9,7 +9,7 @@ __Script 2: Prepare date for spaCy__
 <br>Since spaCy cannot process the JSON data exported from WebAnno, it is necessary to adjust the format.</br>
 
 __Script 3: Test updated spaCy model__
-<br>After updating the spaCy model via the command line interface, the model is tested on all songtext files whereas the named entities included are counted and visualized within the text.</br>
+<br>After updating the spaCy model via the command line interface, the model is tested on all songtext files at once, whereas the named entities included are counted and visualized within the text.</br>
 <br></br>
 __Methods:__
 <br>Programming language: Python 3</br>
