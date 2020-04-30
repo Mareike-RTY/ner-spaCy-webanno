@@ -1,2 +1,2 @@
-# work_samples
-Scripts for detecting named entities in German lyrics based on WebAnno annotations by using a German spaCy model.
+# ner_lyrics
+Scripts for detecting named entities in German lyrics via a spaCy model, and for preparing data for spaCy.
